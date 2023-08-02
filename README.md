@@ -1,3 +1,3 @@
-# weather_app
+# webpack_start
 
-Weather app project for API usage demonstration
+Webpack template for future projects
