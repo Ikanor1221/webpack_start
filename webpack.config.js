@@ -5,7 +5,6 @@ const BundleAnalyzerPlugin =
 
 module.exports = {
   mode: "development",
-  //   mode: "production",
 
   entry: {
     bundle: path.resolve(__dirname, "src/index.js"),
